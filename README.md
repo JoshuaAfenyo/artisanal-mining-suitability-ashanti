@@ -16,7 +16,7 @@ High-suitability zones concentrate in the Obuasi-Tarkwa corridor —
 consistent with Ghana's primary gold-producing belt.
 
 ## Live map
-[View interactive map](https://YOURUSERNAME.github.io/artisanal-mining-suitability-ashanti/ashanti_mining_suitability.html)
+[View interactive map](https://joshuaafenyo.github.io/artisanal-mining-suitability-ashanti/)
 
 ## Tools
 Python · Google Earth Engine · geemap · GeoPandas · Landsat 9 · SRTM DEM
